@@ -1,2 +1,3 @@
-# fast-devops-toolkit-xaj8
-Automated issue comment bot repository
+# Fast Devops Toolkit Xaj8
+
+Automated issue comment bot repository.
